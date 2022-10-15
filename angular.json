@@ -28,8 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/swiper/swiper-bundle.scss",
+              "./node_modules/swiper/swiper.css",
               "src/styles.scss"
+
             ],
             "scripts": []
           },
