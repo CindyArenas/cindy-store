@@ -1,0 +1,45 @@
+#imagen{
+    width: 50%;   
+}
+
+.formulario{
+   margin-right: 500%;
+   width: 200%;
+   border-radius:100px;
+   padding-top: 40%;
+
+}
+
+.contenedor{
+    display: flex;
+   flex-direction: row;
+   margin-right: 30%;
+   
+}
+
+.celda{
+   width: 90%;
+   margin: 5%;
+   padding: 2%;
+   background-color: #f1cfda;
+   border: 0px;
+}
+.texto{
+    width: 90%;
+    margin: 4%;
+    padding: 2%;
+    padding-top: 30%;
+    background-color:#f1cfda;
+    border: 0px;
+}
+
+.enviar{
+    background-color: #f1cfda;
+    width: 94%;
+    margin: 4%;
+}
+
+.firma{
+    text-align: center;
+    text-decoration:black;
+}
