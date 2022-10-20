@@ -9,8 +9,9 @@ import {
   DoCheck,
   OnDestroy
 
+
 } from '@angular/core';
-import { Product } from '../../product.model';
+import { Product } from '../../../core/services/models/product.model';
 
 
 @Component({
